@@ -1,4 +1,4 @@
-input("This ProgramCalculates The Number Of Days \n Since You Were Born \n'Press Enter to Continue'")
+input("This Program Calculates The Number Of Days \n Since You Were Born \n'Press Enter to Continue'")
 from datetime import date 
 import time
   
